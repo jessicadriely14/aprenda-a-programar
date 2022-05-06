@@ -1,6 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(to right, rgb(29, 136, 207), #6e198f);
+    background: linear-gradient(to right, rgb(178, 186, 190), #198f7b);
     text-align: center;
     color: #fff;
 }
@@ -18,7 +18,7 @@ body{
 }
 
 button{
-    background-color: slateblue;
+    background-color: rgb(90, 192, 205);
     color: #fff;
     border: none;
     padding: 1em;
@@ -29,7 +29,7 @@ button{
 }
 
 button:hover{
-    background-color: steelblue;
+    background-color: rgb(70, 145, 180);
 }
 
 
